@@ -72,6 +72,8 @@ The Internet is a vast cache of information and if you know how to navigatge it 
   - Additional information: [Underscore.js](http://underscorejs.org/) has great documentation. Also check out [lodash](https://lodash.com/).
 - [ ] Learn to test your code
   - `npm install -g test-anything`
+- [ ] Learn the best practices of writing clean JavaScript code.
+  - `npm install -g js-best-practices`
 
 ### Get Started with Node.JS
  - [ ] Learn the basics of node: asynchronous i/o, http.
@@ -144,3 +146,6 @@ The Internet is a vast cache of information and if you know how to navigatge it 
 ### Mobile Development
 - [ ] Ionic
  - http://ionicframework.com/
+- [ ] React Native
+ - https://facebook.github.io/react-native/
+ - http://www.reactnativeexpress.com
